@@ -23,7 +23,7 @@ Lenguaje: Java 26.0.1
 Paradigma: Programación Orientada a Objetos (POO)
 
 ### Estructura del Codigo
-
+```text
 src/
 └── bst/
     ├── Node.java
@@ -44,4 +44,4 @@ Eliminación Estructural: Reajuste en vivo sustituyendo el nodo intermedio (30) 
 
 ### Video
 
-[text](https://drive.google.com/drive/folders/1kmygVZU7ap6jowvaj_2BEnOdvi6Pu3Xf?usp=sharing)
+[VIDEO EXPLICATIVO](https://drive.google.com/drive/folders/1kmygVZU7ap6jowvaj_2BEnOdvi6Pu3Xf?usp=sharing)
