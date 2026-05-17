@@ -29,7 +29,7 @@ src/
     ├── Node.java
     ├── BinarySearchTree.java
     └── Main.java
-
+```
 ### Ejemplo y uso
 
 Al ejecutar la clase Main.java, la terminal desplegará de forma automática las fases del ciclo de vida del árbol bajo el siguiente esquema interactivo:
